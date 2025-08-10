@@ -10,7 +10,7 @@
 - Configurable cooldown for the `/spawn` command to prevent abuse.
 
 ## Installation
-1. Download the latest release [here](https://github.com/Jelly-Pudding/anarchyspawn/releases/latest).
+1. Download the latest release [here](https://github.com/DRATHARR/anarchyspawn-folia/releases/tag/Folia).
 2. Place the `.jar` file in your Minecraft server's `plugins` folder.
 3. Restart your server.
 
@@ -45,5 +45,5 @@ unsafe-blocks:
 - `anarchyspawn.spawn`: Allows use of the spawn command (default: true)
 - `anarchyspawn.reload`: Allows reloading the plugin configuration (default: op)
 
-## Support Me
+## Support first autor
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K715TC1R)
